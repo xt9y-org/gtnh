@@ -1,0 +1,650 @@
+#English (US)
+achievement.oxygengearGC=휴대용 산소
+achievement.oxygengearGC.desc=산소 마스크, 산소 장비, 산소 탱크, 주파수 모듈, 낙하산을 제작합니다.
+achievement.maxoxygentankGC=며칠 치 산소
+achievement.maxoxygentankGC.desc=초중량 산소 탱크를 제작하십시오.
+achievement.thermal1GC=포근함!
+achievement.thermal1GC.desc=1단계 보온 패딩 한 세트를 제작하십시오.
+achievement.thermal2GS=에어컨 포함
+achievement.thermal2GS.desc=2단계 열 보호 장비 한 세트를 제작하십시오.
+achievement.spacesuit1GS=진짜 우주비행사처럼
+achievement.spacesuit1GS.desc=우주복 제작
+achievement.spacesuit2GS=미래의 우주비행사처럼
+achievement.spacesuit2GS.desc=우주복을 업그레이드하십시오.
+achievement.plasmatoolsGS=제4의 상태
+achievement.plasmatoolsGS.desc=플라즈마 도구를 아무거나 제작하십시오.
+achievement.spacefoodGC=진공 밀봉됨
+achievement.spacefoodGC.desc=아무 통조림 식품이나 먹으십시오.
+achievement.solar1GC=태양광 에너지
+achievement.solar1GC.desc=기본 태양 전지판을 제작하십시오.
+achievement.solar2GC=효율 향상
+achievement.solar2GC.desc=고급 태양광 패널 제작
+achievement.solar3GS=두 개를 사용해 출력량을 두 배로 늘리십시오.
+achievement.solar3GS.desc=하이브리드 태양광 패널을 제작하십시오.
+achievement.solarwindGS=대체 이게 어떻게 작동하는 겁니까?
+achievement.solarwindGS.desc=태양풍 패널을 제작합니다.
+achievement.oxygendeathGC=숨 (못)쉬기
+achievement.oxygendeathGC.desc=산소 측정기를 잘 확인하세요!
+achievement.pressuredeathGS=나는 이런 압박 속에선 일 못해!
+achievement.pressuredeathGS.desc=제 생각엔 장비가 더 필요할 것 같아요.
+achievement.thermaldeathGC=뜨겁게 드릴까요 차갑게 드릴까요?
+achievement.thermaldeathGC.desc=열은 물질을 통해 전도됩니다.
+achievement.rocketcrashdeathGC=그거 비싼건데!
+achievement.rocketcrashdeathGC.desc=새로 하나 들이셔야겠어요.
+
+achievement.nasaGC=이것이 바로 로켓 과학입니다!
+achievement.nasaGC.desc=NASA 작업대 제작
+achievement.spacestationGC=지구를 내려다보며
+achievement.spacestationGC.desc=우주 정거장 방문
+achievement.launchcontrollerGC=로켓 자동 발사
+achievement.launchcontrollerGC.desc=발사 제어기를 제작하십시오.
+achievement.glowstoneGS=어둠 속에서 빛납니다!
+achievement.glowstoneGS.desc=우주에서 발광석을 찾습니다.
+achievement.unknowncrystalGS=외계 수정
+achievement.unknowncrystalGS.desc=미지의 수정을 찾으십시오.
+
+achievement.lander1GS=속도를 줄이는 것을 잊지 마십시오!
+achievement.lander1GS.desc=1단계 착륙선을 제작하십시오.
+achievement.lander2GS=풍선 가게를 털었습니까?
+achievement.lander2GS.desc=2단계 착륙선을 제작하십시오.
+achievement.lander3GS=타디스처럼 보입니다.
+achievement.lander3GS.desc=3티어 착륙선을 제작하십시오.
+achievement.rocket1GC=인기인
+achievement.rocket1GC.desc=1단계 로켓을 제작하십시오.
+achievement.rocket2GC=부스트를 받은 자
+achievement.rocket2GC.desc=2단계 로켓을 제작하십시오.
+achievement.rocket3GC=깜빡이는 존재
+achievement.rocket3GC.desc=3단계 로켓을 제작합니다.
+achievement.rocket4GS=가느다란 녀석
+achievement.rocket4GS.desc=4단계 로켓을 제작하십시오.
+achievement.rocket5GS=주황색 로켓
+achievement.rocket5GS.desc=5티어 로켓을 제작하십시오.
+achievement.rocket6GS=육각형의 존재
+achievement.rocket6GS.desc=6단계 로켓을 제작하십시오.
+achievement.rocket7GS=키 큰 녀석
+achievement.rocket7GS.desc=7단계 로켓을 제작합니다.
+achievement.rocket8GS=초대형 로켓
+achievement.rocket8GS.desc=8티어 로켓을 제작하십시오.
+achievement.moonbuggyGC=달을 누비다
+achievement.moonbuggyGC.desc=달 탐사차를 제작하십시오.
+achievement.cargorocketGC=행성 간 우편 서비스
+achievement.cargorocketGC.desc=화물 로켓을 제작합니다.
+achievement.astrominerGC=심우주 채굴
+achievement.astrominerGC.desc=우주 광부를 제작하십시오.
+
+achievement.bossmoonGC=저를 붙잡을 수 없습니다!
+achievement.bossmoonGC.desc=진화한 스켈레톤 보스를 처치하십시오.
+achievement.bossmarsGC=저를 폭발시킬 수는 없습니다!
+achievement.bossmarsGC.desc=진화된 크리퍼 보스를 처치하십시오.
+achievement.bossceresGS=날 태울 수 없어!
+achievement.bossceresGS.desc=진화한 블레이즈 보스를 처치하십시오.
+achievement.bossioGS=저를 귀찮게 할 수 없습니다!
+achievement.bossioGS.desc=진화한 가스트 보스를 처치하십시오.
+achievement.bossenceladusGS=저를 해칠 수 없습니다!
+achievement.bossenceladusGS.desc=진화한 수정 보스를 처치하십시오.
+achievement.bossproteusGS=저를 짓누를 수는 없습니다!
+achievement.bossproteusGS.desc=진화한 슬라임 보스를 처치하십시오.
+achievement.bossplutoGS=저를 물 수는 없습니다!
+achievement.bossplutoGS.desc=진화한 늑대 보스를 처치하십시오.
+
+achievement.moonGC=달
+achievement.moonGC.desc=달을 방문합니다.
+achievement.deimosGS=데이모스
+achievement.deimosGS.desc=데이모스를 방문합니다.
+achievement.phobosGS=포보스
+achievement.phobosGS.desc=포보스를 방문하십시오.
+achievement.marsGC=화성
+achievement.marsGC.desc=화성을 방문합니다.
+achievement.asteroidsGC=소행성
+achievement.asteroidsGC.desc=소행성을 방문하십시오.
+achievement.callistoGS=칼리스토
+achievement.callistoGS.desc=칼리스토를 방문하십시오.
+achievement.ceresGS=세레스
+achievement.ceresGS.desc=세레스를 방문하십시오.
+achievement.europaGS=유로파
+achievement.europaGS.desc=유로파를 방문하십시오.
+achievement.ganymedeGS=가니메데
+achievement.ganymedeGS.desc=가니메데를 방문하십시오.
+achievement.ross128bBW=로스 128 b
+achievement.ross128bBW.desc=Ross128b를 방문하십시오.
+achievement.ioGS=이오
+achievement.ioGS.desc=이오를 방문하십시오.
+achievement.mercuryGS=수성
+achievement.mercuryGS.desc=수성을 방문하십시오.
+achievement.venusGS=금성
+achievement.venusGS.desc=금성을 방문하십시오.
+achievement.enceladusGS=엔셀라두스
+achievement.enceladusGS.desc=엔셀라두스를 방문합니다.
+achievement.mirandaGS=미란다
+achievement.mirandaGS.desc=미란다를 방문하십시오.
+achievement.oberonGS=오베론
+achievement.oberonGS.desc=오베론을 방문하십시오.
+achievement.ross128baBW=로스128ba
+achievement.ross128baBW.desc=Ross128ba를 방문하십시오.
+achievement.titanGS=타이탄
+achievement.titanGS.desc=타이탄을 방문하십시오.
+achievement.proteusGS=프로테우스
+achievement.proteusGS.desc=프로테우스를 방문하십시오.
+achievement.tritonGS=트리톤
+achievement.tritonGS.desc=트리톤을 방문하십시오.
+achievement.haumeaGS=하우메아
+achievement.haumeaGS.desc=하우메아를 방문하십시오.
+achievement.kuiperbeltGS=카이퍼 벨트
+achievement.kuiperbeltGS.desc=카이퍼대를 방문하십시오.
+achievement.makemakeGS=마케마케
+achievement.makemakeGS.desc=마케마케를 방문하십시오.
+achievement.plutoGS=명왕성
+achievement.plutoGS.desc=명왕성을 방문하십시오.
+achievement.acentauribbGS=센타우리자리 알파 Bb
+achievement.acentauribbGS.desc=α Centauri Bb를 방문하십시오.
+achievement.barnardacGS=바르나다 C
+achievement.barnardacGS.desc=바나르다 C를 방문하십시오.
+achievement.barnardaeGS=바르나르다 E
+achievement.barnardaeGS.desc=바르나르다 E를 방문하십시오.
+achievement.barnardafGS=바르나다 F
+achievement.barnardafGS.desc=바르나다 F를 방문하십시오.
+achievement.tcetieGS=고래자리 타우 E
+achievement.tcetieGS.desc=T Ceti E를 방문하십시오.
+achievement.vegabGS=베가 B
+achievement.vegabGS.desc=베가 B를 방문하십시오.
+
+menu.update=[Galaxy Space]를 업데이트하십시오!
+
+tile.MercuryBlocks.name=수은 블록
+tile.MercuryGrunt.name=수성 표면 블록
+tile.MercurySubGrunt.name=수성 지하 블록
+tile.MercuryCore.name=수은 코어
+tile.MercuryLeadOre.name=납 광석
+tile.MercuryIronOre.name=철 광석
+tile.MercuryNickelOre.name=니켈 광석
+
+tile.VenusBlocks.name=금성 블록
+tile.VenusGrunt.name=금성 표면 블록
+tile.VenusSubGrunt.name=금성 지하 블록
+tile.VenusSulfurOre.name=황 광석
+tile.VenusDiamondOre.name=다이아몬드 광석
+
+tile.LeadOre.name=납 광석
+tile.MetalsBlocks.name=장식용 금속 블록
+tile.DecoLead.name=장식용 납 블록
+tile.DecoAdamantite.name=장식용 아다만타이트 블록
+tile.DecoCobaltum.name=장식용 코발트 블록
+tile.DecoMagnesium.name=장식용 마그네슘 블록
+tile.DecoMithril.name=장식용 미스릴 블록
+tile.DecoNickel.name=장식용 니켈 블록
+tile.DecoOriharukon.name=장식용 오리하르콘 블록
+tile.DecoPlatinum.name=장식용 백금 블록
+tile.DecoWolframium.name=장식용 텅스텐 블록
+tile.DecoCopper.name=장식용 구리 블록
+
+tile.FutureGlass_None.name=미래형 유리
+tile.FutureGlasses.name=착색된 미래 유리
+tile.FutureGlass_Black.name=검은 미래 유리
+tile.FutureGlass_Red.name=붉은 미래 유리
+tile.FutureGlass_Green.name=녹색 미래 유리
+tile.FutureGlass_Brown.name=갈색 미래 유리
+tile.FutureGlass_Blue.name=파란색 미래 유리
+tile.FutureGlass_Purple.name=보라색 미래 유리
+tile.FutureGlass_Cyan.name=청록색 미래 유리
+tile.FutureGlass_Lightgray.name=밝은 회색 미래 유리
+tile.FutureGlass_Gray.name=회색 미래형 유리
+tile.FutureGlass_Pink.name=분홍색 미래형 유리
+tile.FutureGlass_Lime.name=라임색 미래 유리
+tile.FutureGlass_Yellow.name=노란색 미래 유리
+tile.FutureGlass_Lightblue.name=하늘색 미래 유리
+tile.FutureGlass_Magneta.name=자홍색 미래 유리
+tile.FutureGlass_Orange.name=주황색 미래형 유리
+tile.FutureGlass_White.name=흰색 미래 유리
+
+tile.CeresBlocks.name=세레스 블록
+tile.CeresGrunt.name=세레스 표면 블록
+tile.CeresSubGrunt.name=세레스 지하 블록
+tile.CeresGlowStone.name=세레스 발광석
+tile.CeresBricks.name=세레스 던전 벽돌
+tile.CeresMeteoricIronOre.name=운석 철광석
+tile.CeresWeb.name=세레스 거미줄
+tile.CeresDungFloor.name=세레스 던전 바닥
+tile.CeresDungTop.name=세레스 던전 상부
+
+tile.PlutoBlocks.name=명왕성 블록
+tile.PlutoGrunt.name=명왕성 표면 얼음
+tile.PlutoGrunt2.name=명왕성의 질소 얼음
+tile.PlutoGrunt3.name=명왕성의 톨린 얼음
+tile.PlutoGrunt4.name=명왕성 메탄 얼음
+tile.PlutoSubGrunt.name=명왕성 지하 얼음
+tile.PlutoStone.name=명왕성 암석
+tile.PlutoBricks.name=명왕성 던전 벽돌
+tile.PlutoGlowStone.name=명왕성 발광석
+
+tile.HaumeaBlocks.name=하우메아 표면 블록
+tile.HaumeaGrunt.name=하우메아 표면 블록
+
+tile.MakemakeBlocks.name=마케마케 블록
+tile.MakemakeGrunt.name=마케마케 표면 블록
+tile.MakemakeSubGrunt.name=마케마케 지하 블록
+
+tile.PhobosRock.name=포보스 블록
+tile.PhobosGrunt.name=포보스 표면 블록
+tile.PhobosSubGrunt.name=포보스 지하 블록
+tile.PhobosStone.name=포보스 석재
+tile.PhobosDeshOre.name=Desh 광석
+tile.PhobosCobaltumOre.name=코발트 광석
+
+tile.DeimosBlocks.name=데이모스 블록
+tile.DeimosGrunt.name=데이모스 표면 블록
+tile.DeimosSubGrunt.name=데이모스 지하 블록
+tile.DeimosOriharukonOre.name=오리하르콘 광석
+tile.DeimosTinOre.name=주석 광석
+
+tile.IOBlocks.name=이오 블록
+tile.IOGrunt.name=이오 표면 블록
+tile.IOStone.name=이오석
+tile.IOAsh.name=이오의 재
+tile.IOBricks.name=이오 던전 벽돌
+tile.IOGlowStone.name=이오 발광석
+tile.IOWolframiumOre.name=텅스텐 광석
+tile.IOCopperOre.name=구리 광석
+tile.IOWeb.name=이오 거미줄
+tile.IODualStone.name=이오 이중 표면 블록
+tile.IOSulfurOre.name=황 광석
+tile.IODungTop.name=이오 던전 상층부
+tile.IODungFloor.name=이오 던전 바닥
+
+tile.EuropaBlocks.name=유로파 블록
+tile.EuropaGrunt.name=유로파 표면 블록
+tile.EuropaIce.name=유로파 얼음
+tile.EuropaGeyzer.name=유로파 간헐천
+tile.EuropaUnderwaterGeyser.name=유로파 해저 간헐천
+
+tile.GanymedeBlocks.name=가니메데 블록
+tile.GanymedeGrunt.name=가니메데 표면 블록
+tile.GanymedeSubGrunt.name=가니메데 지하층 블록
+tile.GanymedeMagnesiumOre.name=마그네슘 광석
+tile.GanymedeTitanuimOre.name=일메나이트 광석
+
+tile.CallistoBlocks.name=칼리스토 블록
+tile.CallistoGrunt.name=칼리스토 표면 블록
+tile.CallistoSubGrunt.name=칼리스토 지하 블록
+
+tile.EnceladusBlocks.name=엔셀라두스 블록
+tile.EnceladusSnow.name=엔셀라두스의 눈
+tile.EnceladusGrunt.name=엔셀라두스 지하 블록
+tile.EnceladusBricks.name=엔셀라두스 던전 벽돌
+tile.EnceladusIce.name=엔셀라두스 얼음
+tile.EnceladusGlowStone.name=엔셀라두스 발광석
+tile.Crystall.name=미지의 수정
+
+tile.T4Chest.name=4단계 보물 상자
+tile.T5Chest.name=5단계 보물 상자
+tile.T6Chest.name=6단계 보물 상자
+tile.T7Chest.name=7단계 보물 상자
+tile.T8Chest.name=8단계 보물 상자
+
+tile.TitanBlocks.name=타이탄 블록
+tile.TitanGrunt.name=타이탄 표면 블록
+tile.TitanSubGrunt.name=타이탄 지표하 블록
+tile.TitanStone.name=타이탄석
+tile.Methane.name=액체 메탄
+tile.NuclearFuel.name=바이오 연료
+
+tile.MirandaBlocks.name=미란다 블록
+tile.MirandaGrunt.name=미란다 표면 블록
+tile.MirandaSubGrunt.name=미란다 지하 블록
+tile.MirandaStone.name=미란다 돌
+tile.MirandaIronOre.name=철 광석
+
+tile.OberonBlocks.name=오베론 블록
+tile.OberonGrunt.name=오베론 표면 블록
+tile.OberonSubGrunt.name=오베론 지하층 블록
+tile.OberonStone.name=오베론석
+tile.OberonAdamantiteOre.name=아다만타이트 광석
+
+tile.ProteusGrunt.name=프로테우스 표면 블록
+tile.ProteusSubGrunt.name=프로테우스 지하 블록
+tile.ProteusStone.name=프로테우스 돌
+tile.ProteusBricks.name=프로테우스 던전 벽돌
+tile.ProteusGlowStone.name=프로테우스 발광석
+tile.ProteusWolframiumOre.name=텅스텐 광석
+tile.ProteusPlatinumOre.name=백금 광석
+
+tile.TritonBlocks.name=트리톤 블록
+tile.TritonGrunt.name=트리톤 표면 블록
+tile.TritonSubGrunt.name=트리톤 지하 블록
+tile.TritonStone.name=트리톤 석재
+tile.TritonMithrilOre.name=미스릴 광석
+
+tile.ACentauriBbGrunt.name=알파 센타우리 Bb 표면 블록
+tile.ACentauriBbSubGrunt.name=알파 센타우리 Bb 지하 블록
+
+tile.Barnarda2Grass.name=바르나르다 C 잔디
+tile.Barnarda2Dirt.name=바르나르다 C 흙
+tile.Barnarda2Reed.name=바르나르다 C 민들레
+tile.Barnarda2Dandelions.name=바르나르다 C 민들레
+tile.Barnarda2Dandelions.Dandelion1.name=바르나르다 C 민들레
+tile.Barnarda2Dandelions.Dandelion2.name=Barnarda C 민들레
+tile.Barnarda2Dandelion3.name=바르나드 C 민들레
+tile.Barnarda2Log.name=바나르다 C 목재
+tile.Barnarda2Planks.name=바르나다 C 목재 판자
+tile.Barnarda2PlanksOak.name=바르나다 C 나무 판자
+tile.Sapling_1.name=바르나르다 C 묘목
+tile.Leaves_1.name=Barnarda C의 잎
+tile.BarnardaEGrunt.name=바르나다 E 표면 블록
+tile.BarnardaESubGrunt.name=바나르다 E 지하 블록
+tile.CrystalB.name=무지개 수정
+tile.BarnardaEOreIron.name=철 광석
+tile.BarnardaEOreGold.name=금 광석
+tile.BarnardaFGrunt.name=Barnarda F 표면 블록
+tile.BarnardaFSubGrunt.name=Barnarda F 지하 블록
+tile.UnknowWater.name=알 수 없는 액체
+tile.Barnarda2Reed.Reed1.name=바르나르다 C 민들레
+tile.Barnarda2Reed.Reed2.name=Barnarda C의 열매 달린 민들레
+
+tile.VegaBGrunt.name=베가 B 표면 블록
+tile.VegaBSubGrunt.name=Vega B 지하 블록
+
+tile.TCetiEBlocks.name=T Ceti E 블록
+tile.TCetiEGrunt.name=T Ceti E 지표 블록
+tile.TCetiESubGrunt.name=T Ceti E 지하 블록
+tile.TCetiEStone.name=T Ceti E 돌 블록
+tile.TCetiEBlockDandelions.name=T Ceti E 해초
+tile.TCetiEBlockDandelions.TCetiEDandelion1.name=T Ceti E 해초
+tile.TCetiEBlockDandelions.TCetiEDandelion2.name=T Ceti E 해초
+tile.TCetiEBlockDandelions.TCetiEDandelion3.name=T Ceti E 해초
+tile.TCetiEBlockDandelions.TCetiEDandelion4.name=T Ceti E 해초
+tile.TCetiEBlockDandelions.TCetiEDandelion5.name=T Ceti E 해초
+tile.TCetiEBlockDandelions.TCetiEDandelion6.name=T Ceti E 해초
+
+tile.AssemblyMachine.name=조립 기계
+tile.AssemblyMachine.desc=압축기의 고급 버전입니다. 매우 민감한 레이저로 재료를 밀봉합니다.
+tile.GeothermalGenerator.name=지열 발전기
+tile.GeothermalGenerator.desc=용암의 열을 에너지로 변환합니다.
+tile.FuelGenerator.name=연료 발전기
+tile.FuelGenerator.desc=연료를 소비해 많은 양의 에너지를 생산합니다. 연료 거물에게 좋은 선택지입니다.
+tile.SolarWindPanel.name=태양풍 패널
+tile.SolarWindPanel.desc=태양풍을 에너지로 변환합니다.
+tile.ConverterSurface.name=지표면 변환기
+tile.ConverterSurface.desc=행성의 지표면을 잔디 블록으로 변환합니다. 행성을 테라포밍하는 데 유용한 기계입니다.
+tile.StorageModuleT3.0.name=고급 에너지 클러스터
+tile.StorageModuleT3.name=고급 에너지 클러스터
+tile.StorageModule.desc=에너지 클러스터의 고급형입니다. 많은 양의 에너지를 저장할 수 있습니다.
+tile.OxygenStorageModuleT2.0.name=고급 산소 모듈
+tile.OxygenStorageModuleT2.name=고급 산소 모듈
+tile.OxygenStorageModule.desc=산소 저장 장치를 개선한 버전입니다.
+tile.SolarPanel.name=하이브리드 태양광 패널
+tile.SolarHybrid.desc=고급 패널보다 두 배 많은 에너지를 생산합니다.
+tile.coefficient.desc=계수 생성
+
+tile.tier4chest.description=세레스에 4단계 보물 상자가 생성됩니다. 최종 보스를 처치한 후 열 수 있습니다.
+tile.tier5chest.description=5단계 보물 상자는 이오에 생성됩니다. 최종 보스를 처치한 후 열 수 있습니다.
+tile.tier6chest.description=엔셀라두스에 6단계 보물 상자가 생성됩니다. 최종 보스를 처치한 후 열 수 있습니다.
+tile.tier7chest.description=프로테우스에 7단계 보물 상자가 생성됩니다. 최종 보스를 처치한 후 열 수 있습니다.
+tile.tier8chest.description=8단계 보물 상자는 명왕성에 생성됩니다. 최종 보스를 처치한 후 열 수 있습니다.
+
+item.SchematicTier4.name=NASA 작업대 설계도
+item.SchematicTier5.name=NASA 작업대 설계도
+item.SchematicTier6.name=NASA 작업대 설계도
+item.SchematicTier7.name=NASA 작업대 설계도
+item.SchematicTier8.name=NASA 작업대 설계도
+
+item.Tier4Key.name=4단계 던전 열쇠
+item.Tier5Key.name=5단계 던전 열쇠
+item.Tier6Key.name=6단계 던전 열쇠
+item.Tier7Key.name=7단계 던전 열쇠
+item.Tier8Key.name=8티어 던전 열쇠
+
+item.Tier4Rocket.name=4단계 로켓
+item.Tier4Rocket.t4Rocket.name=4단계 로켓
+item.Tier5Rocket.name=5단계 로켓
+item.Tier5Rocket.t5Rocket.name=5단계 로켓
+item.Tier6Rocket.name=6단계 로켓
+item.Tier6Rocket.t6Rocket.name=6단계 로켓
+item.Tier7Rocket.name=7단계 로켓
+item.Tier7Rocket.t7Rocket.name=7단계 로켓
+item.Tier8Rocket.name=8티어 로켓
+item.Tier8Rocket.t8Rocket.name=8티어 로켓
+
+item.HeavyDutyPlate4.name=고강도 판재
+item.HeavyDutyPlate5.name=고강도 판재
+item.HeavyDutyPlate6.name=고강도 판
+item.HeavyDutyPlate7.name=고강도 판
+item.HeavyDutyPlate8.name=고강도 판
+
+item.JetPack.name=전기 제트팩
+item.lead_helmet.name=납 헬멧
+item.lead_plate.name=납 흉갑
+item.lead_leg.name=납 각반
+item.lead_boots.name=납 장화
+item.cobaltum_helmet.name=코발트 투구
+item.cobaltum_plate.name=코발트 흉갑
+item.cobaltum_leg.name=코발트 레깅스
+item.cobaltum_boots.name=코발트 장화
+item.plasmasword.name=플라즈마 검
+item.plasmaaxe.name=플라즈마 도끼
+item.plasmapickaxe.name=플라즈마 곡괭이
+item.plasmahoe.name=플라즈마 괭이
+item.plasmashovel.name=플라즈마 삽
+item.QuantBow.name=양자 활
+item.spacesuit_helmet.name=우주복 헬멧
+item.spacesuit_plate.name=우주복 흉갑
+item.spacesuit_leg.name=우주복 하의
+item.spacesuit_boots.name=우주복 부츠
+
+item.spacesuit_helmetglasses.name=우주복 센서 고글
+item.spacesuit_jetplate.name=우주복 제트팩
+item.spacesuit_gravityboots.name=우주복 중력 부츠
+
+item.Ingots.name=금속 주괴
+item.LeadIngot.name=납 주괴
+item.DuraluminIngot.name=두랄루민 주괴
+item.NickelIngot.name=니켈 주괴
+item.CobaltumIngot.name=코발트 주괴
+item.PlatinumIngot.name=백금 주괴
+item.MagnesiumIngot.name=마그네슘 주괴
+item.WolframiumIngot.name=텅스텐 주괴
+item.AdamantiteIngot.name=아다만타이트 주괴
+item.MithrilIngot.name=미스릴 주괴
+item.OriharukonIngot.name=오리하르콘 주괴
+
+item.CompressedPlates.name=압축 금속
+item.CompressedLead.name=압축 납
+item.CompressedDuralumin.name=압축 두랄루민
+item.CompressedNickel.name=압축 니켈
+item.CompressedCobaltum.name=압축 코발트
+item.CompressedPlatinum.name=압축 백금
+item.CompressedMagnesium.name=압축 마그네슘
+item.CompressedWolframium.name=압축 텅스텐
+item.CompressedAdamantite.name=압축된 아다만타이트
+item.CompressedMithril.name=압축 미스릴
+item.CompressedOriharukon.name=압축 오리하르콘
+item.CompressedCoal.name=압축 석탄
+item.CompressedDualBronze.name=압축 이중 청동
+item.CompressedDualAluminium.name=압축된 이중 알루미늄
+item.CompressedSDHD120.name=압축 합금 "SDHC-120"
+item.UnknowCrystal.name=미지의 수정 조각
+item.Sulfur.name=황
+item.MethaneBucket.name=메탄 양동이
+item.ModuleSmallFuelCanister.name=소형 연료통
+item.ModuleSmallCanister.name=빈 연료 탱크
+item.ModuleLander.name=1단계 착륙선
+item.ModuleLander2.name=2단계 착륙선
+item.ModuleLander3.name=착륙선 3단계
+item.ThermalClothT2.name=내열 천
+item.ThermalPaddingT2.name=열 보호 패딩 T2 조각
+item.thermalHelmT2.name=열 보호 헬멧
+item.thermalChestplateT2.name=열 보호 흉갑
+item.thermalLeggingsT2.name=보온 각반
+item.thermalBootsT2.name=보온 장화
+item.RocketParts.name=로켓 부품
+item.RocketConeT2.name=내구성이 뛰어난 2단계 노즈 콘
+item.RocketEngineT2.name=내구성이 뛰어난 2티어 로켓 엔진
+item.RocketBoosterT2.name=2단계 부스터
+item.RocketStabilisatorT2.name=튼튼한 2단계 로켓 안정 날개
+item.PartSolarFlares.name=태양 플레어 부품
+item.SolarFlares.name=태양 플레어
+item.LeadBattery.name=납 배터리
+item.UnknowWaterBucket.name=미지의 액체 양동이
+item.BarnardaCStrawberry.name=미지의 과일
+
+item.RocketControlComputer.name=로켓 제어 컴퓨터
+item.computerTier1.name=1단계 로켓 제어 컴퓨터
+item.computerTier2.name=2단계 로켓 제어 컴퓨터
+item.computerTier3.name=3단계 로켓 제어 컴퓨터
+item.computerTier4.name=4단계 로켓 제어 컴퓨터
+item.computerTier5.name=5단계 로켓 제어 컴퓨터
+item.computerTier6.name=6단계 로켓 제어 컴퓨터
+item.computerTier7.name=7단계 로켓 제어 컴퓨터
+item.computerTier8.name=8단계 로켓 제어 컴퓨터
+item.computerCargo.name=화물 로켓 제어 컴퓨터
+item.computerBuggy.name=달 탐사차 제어 컴퓨터
+item.computerMiner.name=우주 채굴기 제어 컴퓨터
+item.RobotArm.name=다목적 로봇 팔
+
+item.ItemBioFuelCanister.name=바이오연료 용기
+item.biofuelCanister.name=바이오연료 용기
+
+item.GlowstoneDusts.name=발광석 가루
+item.CeresGlowstoneDust.name=세레스 발광석 가루
+item.IoGlowstoneDust.name=이오 발광석 가루
+item.EnceladusGlowstoneDust.name=엔셀라두스 발광석 가루
+item.ProteusGlowstoneDust.name=프로테우스 발광석 가루
+item.PlutoGlowstoneDust.name=명왕성 발광석 가루
+
+item.Icon.name=아이콘
+
+potion.radiation=태양 복사
+
+tooltip.spacesuit=우주복 기능을 제공합니다.
+
+# SCHEMATICS Gui
+schematic.rocketT2.name=2단계 로켓
+schematic.rocketT3.name=3단계 로켓
+schematic.rocketT4.name=4티어 로켓
+schematic.rocketT5.name=5단계 로켓
+schematic.rocketT6.name=6단계 로켓
+schematic.rocketT7.name=7단계 로켓
+schematic.rocketT8.name=8티어 로켓
+
+gui.schematic4.desc=4단계 로켓
+gui.schematic5.desc=5단계 로켓
+gui.schematic6.desc=6단계 로켓
+gui.schematic7.desc=7단계 로켓
+gui.schematic8.desc=로켓 티어 8
+
+gui.hdp4.desc=4단계
+gui.hdp5.desc=5단계
+gui.hdp6.desc=6단계
+gui.hdp7.desc=7티어
+gui.hdp8.desc=8티어
+
+gui.thermal2.desc1=2단계
+gui.thermal2.desc2=태양 복사로부터 보호합니다.
+gui.spacesuit.desc=높은 강도를 지닌 슈트입니다. 대기압을 안정화합니다. 또한 헬멧을 착용하면 물속에서 더 오래 머무를 수 있습니다.
+gui.ssglasses.desc=통합 센서 고글을 사용하면 동굴에서 광석을 볼 수 있습니다.
+gui.ssjetplate.desc=통합 제트팩을 사용하면 행성 사이를 빠르게 이동할 수 있습니다.
+gui.ssboots.desc=통합 마그네슘 판은 몸을 더 무겁게 만듭니다.
+
+gui.module.desc=로켓 모듈
+gui.status.nolava.name=용암 없음
+gui.message.lava.name=용암
+gui.message.water.name=물
+gui.status.nofuelgenerator.name=연료 없음
+gui.warning.atmosphericPressure=대기압이 높습니다!
+gui.message.biofuel.name=바이오 연료
+
+gui.quantbow.desc1=내구도 x1.5, 피해량 x2!
+gui.quantbow.desc2=불타는 화살
+
+gs.success.name=Galaxy Space의 실제 버전:
+
+itemGroup.AddonsBlocks=GalaxySpace: 블록
+itemGroup.AddonsItems=GalaxySpace: 아이템
+itemGroup.AddonsArmor=GalaxySpace: 방어구
+
+entity.GalacticraftCore.Crawler.name=기어다니는 생물
+entity.GalacticraftCore.EvolvedBlaze.name=진화한 블레이즈
+entity.GalacticraftCore.EvolvedBossBlaze.name=진화한 블레이즈 보스
+entity.GalacticraftCore.EvolvedBossGhast.name=진화한 가스트 보스
+entity.GalacticraftCore.EvolvedBossSlime.name=진화한 슬라임 보스
+entity.GalacticraftCore.EvolvedBossWolf.name=진화된 늑대 보스
+entity.GalacticraftCore.EvolvedColdBlaze.name=진화한 냉기 블레이즈
+entity.GalacticraftCore.EvolvedCrystalBoss.name=진화한 수정 보스
+entity.GalacticraftCore.EvolvedEnderman.name=진화한 엔더맨
+entity.GalacticraftCore.EvolvedFireCreeper.name=진화된 화염 크리퍼
+entity.GalacticraftCore.EvolvedFireSkeleton.name=진화된 화염 스켈레톤
+entity.GalacticraftCore.EvolvedFireSpider.name=진화한 화염 거미
+entity.GalacticraftCore.EvolvedGuardian.name=진화한 물의 수호자
+entity.GalacticraftCore.SpaceshipT4.name=4티어 로켓
+entity.GalacticraftCore.SpaceshipT5.name=5단계 로켓
+entity.GalacticraftCore.SpaceshipT6.name=6단계 로켓
+entity.GalacticraftCore.SpaceshipT7.name=7단계 로켓
+entity.GalacticraftCore.SpaceshipT8.name=8티어 로켓
+entity.GalacticraftCore.Tentacles.name=자연의 촉수
+
+planet.Ceres=세레스
+moon.Phobos=포보스
+moon.Deimos=데이모스
+moon.ioJupiter=이오
+moon.Europa=유로파
+moon.Ganymed=가니메데
+moon.Callisto=칼리스토
+moon.Mimas=미마스
+moon.Enceladus=엔셀라두스
+moon.Tethys=테티스
+moon.Dione=디오네
+moon.Rheya=레야
+moon.Titan=타이탄
+moon.Iapetus=이아페투스
+moon.Miranda=미란다
+moon.Ariel=아리엘
+moon.Umbriel=움브리엘
+moon.Titania=티타니아
+moon.Oberon=오베론
+moon.Proteus=프로테우스
+moon.Triton=트리톤
+planet.pluto=명왕성
+moon.Charon=카론
+planet.kuiperbelt=카이퍼 벨트
+planet.haumea=하우메아
+planet.makemake=마케마케
+planet.eris=에리스
+
+solarsystem.aCentauriSystem=알파 센타우리 항성계
+star.CentauriA=알파 센타우리 A
+planet.CentauriB=알파 센타우리 B
+planet.CentauriBb=알파 센타우리 Bb
+
+solarsystem.ProximaSystem=프록시마 센타우리 항성계
+star.Proxima=프록시마 센타우리
+planet.ProximaB=프록시마 B
+
+solarsystem.BarnardsSystem=바너드 항성계
+star.Barnarda=바르나르다 A
+planet.Barnarda1=바르나다 B
+planet.Barnarda2=바르나다 C
+planet.Barnarda3=바르나다 D
+planet.Barnarda4=바르나르다 E
+planet.Barnarda5=바르나르다 F
+planet.Barnarda6=바르나르다 G
+planet.BarnardaAsteroids=소행성대
+
+solarsystem.VegaSystem=베가 항성계
+star.Vega=베가
+planet.Vega1=베가 B
+planet.Vega2=베가 C
+planet.VegaAsteroids=소행성대
+planet.VegaAsteroids2=소행성대
+
+solarsystem.TCetiSystem=T Ceti 성계
+star.TCetiA=고래자리 T A
+planet.TCetiB=T Ceti B
+planet.TCetiC=T 세티 C
+planet.TCetiD=T Ceti D
+planet.TCetiE=T Ceti E
+planet.TCetiF=T Ceti F
+planet.TCetiG=고래자리 타우 G
+planet.TCetiAsteroids=소행성대
+
+fluid.biofuel=바이오 연료
+fluid.unknowwater=알 수 없는 액체
+
+death.attack.atmosphericPressure=%1$s 의 폐가 대기압으로 인해 터졌습니다!

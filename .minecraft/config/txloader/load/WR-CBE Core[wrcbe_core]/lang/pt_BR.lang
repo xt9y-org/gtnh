@@ -1,0 +1,97 @@
+death.attack.bolt=%1$s foi atinjido por um Raio REther.
+item.wrcbe_core:obsidianStick.name=Haste de Obsidiana
+item.wrcbe_core:stoneBowl.name=Tijela de Pedra
+item.wrcbe_core:retherPearl.name=Pérola de REther
+item.wrcbe_core:wirelessTransceiver.name=Transceptor Sem Fio
+item.wrcbe_core:blazeTransceiver.name=Transceptor de Blaze
+item.wrcbe_core:recieverDish.name=Parabólica do Receptor
+item.wrcbe_core:blazeRecieverDish.name=Parabólica do Receptor de Blaze
+
+wrcbe_core.button.simple=Simples
+wrcbe_core.button.advanced=Avançado
+wrcbe_core.button.set=definir
+wrcbe_core.button.colour=Deslocamento de Fase
+wrcbe_core.button.setname=Definir Nome
+wrcbe_core.button.remname=Remover
+wrcbe_core.label.value=Valor
+wrcbe_core.label.name=Nome da Frequência
+wrcbe_core.label.colour=Espectro
+wrcbe_core.label.freq=Frequência
+
+wrcbe_core.command.usage=WR-CBE gerenciamente de REther. Uso: freq [params...]
+wrcbe_core.command.usage1=parâmetros: %s
+wrcbe_core.command.usage2=Utilize /freq help [param] para mais informações
+
+wrcbe_core.param.invalidno=Número de parâmetros inválido
+wrcbe_core.param.invalid=Parâmetro inválido
+wrcbe_core.param.missing=Parâmetro não existe
+wrcbe_core.param.invalidfreq=Frequência Inválida
+wrcbe_core.param.invalidfreqrange=Faixa de frequência inválida
+
+wrcbe_core.param.get.usage=Uso: freq get [public | shared | private]
+wrcbe_core.param.get.usage1=Ex.: freq get public. Retorna a faixa de frequência padrão
+wrcbe_core.param.get.usage2=Ex.: freq get shared. Retorna a feixa de frequência compartilhada
+wrcbe_core.param.get.usage3=Ex.: freq get private. Retorna o número de frequência privadas que cada jogador pode ter
+wrcbe_core.param.get.public=Frequências 1-%d são públicas
+wrcbe_core.param.get.shared=Frequências %d-%d são compartilhadas
+wrcbe_core.param.get.shared0=Não há nenhuma frequência compartilhada
+wrcbe_core.param.get.private=Todos os jogadores são permitidos %d frequências privadas
+
+wrcbe_core.param.private.usage=Uso: freq private [params...]
+wrcbe_core.param.private.usage1=Ex.: freq private [username | all]. Retorna as frequências privadas pertencentes a [username]
+wrcbe_core.param.private.usage2=Ex.: freq private [username] [freq]. Define o dono da [freq] como sendo [username]
+wrcbe_core.param.private.usage3=Ex.: freq private [freq]. Retorna o dono da [freq]
+wrcbe_core.param.private.usage4=Ex.: freq private clear [freq | username | all]. Remove o dono da [freq]
+wrcbe_core.param.private.none=Não há frequências privadas
+wrcbe_core.param.private.list=As seguintes frequências são privadas: %s
+wrcbe_core.param.private.ispublic=%d é pública
+wrcbe_core.param.private.publicanyway=%d já é público
+wrcbe_core.param.private.notprivate=%d não é privada
+wrcbe_core.param.private.noneowned=%s não é dono de nenhuma frequência
+wrcbe_core.param.private.nowshared=%d agora é compartilhada
+wrcbe_core.param.private.nowshared2=As seguintes frequências são agora compartilhadas: %s
+wrcbe_core.param.private.ownedby=%d pertence a %s
+wrcbe_core.param.private.owns=%s é dono das seguintes frequências: %s
+wrcbe_core.param.private.notshared=%d não está na faixa compartilhada
+wrcbe_core.param.private.nowownedby=%d agora pertence a %s
+wrcbe_core.param.private.limit=%s já é dono de %d frequências
+
+wrcbe_core.param.scan.usage=Uso: freq scan [playername]
+wrcbe_core.param.scan.usage1=Reporta as frequências [playername] pode receber e fazer broadcasts
+wrcbe_core.param.scan.usage2=Ex.: freq scan pao_integral
+wrcbe_core.param.scan.usage3=Ex.: freq scan
+wrcbe_core.param.scan.list=%s pode fazer broadcast em: %s
+wrcbe_core.param.scan.onlypublic=%s só pode fazer broadcast em frequências públicas
+
+wrcbe_core.param.set.usage=Uso: freq set [public | shared | private] [value]
+wrcbe_core.param.set.usage1=Ex.: freq set public. Define as frequências 1 até [value] como públicas
+wrcbe_core.param.set.usage2=Eg. freq set shared. Define as frequências [public+1] até [value] como compartilhadas
+wrcbe_core.param.set.usage3=Eg. freq set private. Dá a a cada jogador [value] frequências privadas
+wrcbe_core.param.set.invalidnum=Número Inválido
+wrcbe_core.param.set.invalidqty=Quantidade Inválida
+wrcbe_core.param.set.nowpublic=%s: As frequências 1-%d são públicas
+wrcbe_core.param.set.sharedpublic=%s: A faixa de frequências compartilhada foi feita pública
+wrcbe_core.param.set.nowshared=%s: As frequências %d-%d são agora compartilhadas
+wrcbe_core.param.set.sharedremoved=%s: A faixa de frequência compartilhada foi removida
+wrcbe_core.param.set.privateno=%s: Todos os jogadores agora são permitidos a ter %d frequências privadas
+
+wrcbe_core.param.jam.usage=Uso: freq jam [playername] [frequency range | all | default]
+wrcbe_core.param.jam.usage1=Bloqueia o sinal de [playername] da [frequency range]
+wrcbe_core.param.jam.usage2=Ex.: freq %s pao_integral 100-250
+wrcbe_core.param.jam.usage3=Ex.: freq %s pao_integral all
+wrcbe_core.param.jam.usage4=Ex.: freq %s pao_integral default
+wrcbe_core.param.jam.usage5=Ex.: freq %s 100-250
+wrcbe_core.param.jam.usage6=Ex.: freq %s pao_integral 500
+wrcbe_core.param.jam.noplayer=Jogador inexistente
+wrcbe_core.param.jam.errpublic=Você não pode bloquear o sinal de frequências públicas de alguém 
+wrcbe_core.param.jam.jammed=O seu sinal da frequência %d foi bloqueado
+wrcbe_core.param.jam.jammed2=O seu sinal das frequências %d foi bloqueado
+wrcbe_core.param.jam.opjammed=%s: o sinal de %s da frequência %d foi bloqueado
+wrcbe_core.param.jam.opjammed2=%s: o sinal de %s das frequências %s foram bloqueados
+
+wrcbe_core.param.open.usage=Uso: freq open [playername] [frequency range | all | default]
+wrcbe_core.param.open.usage1=Desbloqueia o sinal de [playername] da [frequency range]
+wrcbe_core.param.open.jammed=Você foi permitido a usar a frequência %d
+wrcbe_core.param.open.jammed2=Você foi permitido a usar as frequências %s
+wrcbe_core.param.open.opjammed=%s: %s foi admitido a usar a frequência %d
+wrcbe_core.param.open.opjammed2=%s: %s foi admitido a usar as frequências %d

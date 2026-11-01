@@ -1,0 +1,9 @@
+gui.main_menu.button.credits=Авторы
+gui.credits.title=Авторы
+gui.credits.button.back=Назад
+gui.credits.filter.hint=Фильтр
+gui.credits.button.filter.fuzzy=Нечёткий поиск
+gui.credits.button.filter.exact=Точное совпадение
+gui.credits.button.filter.exact_tip_line=Использует регулярные выражения для точного совпадения с началом нужного имени
+gui.credits.button.filter.fuzzy_tip_line=Использует нечёткий поиск для нахождения ближайших совпадений с нужным именем
+gui.credits.empty=No credits have been provided.

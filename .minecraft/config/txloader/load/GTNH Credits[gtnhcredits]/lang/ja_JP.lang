@@ -1,0 +1,9 @@
+gui.main_menu.button.credits=クレジット
+gui.credits.title=クレジット
+gui.credits.button.back=戻る
+gui.credits.filter.hint=フィルター
+gui.credits.button.filter.fuzzy=ファジー
+gui.credits.button.filter.exact=完全一致
+gui.credits.button.filter.exact_tip_line=正規表現を使用して、指定した名前に前方一致するものを検索する
+gui.credits.button.filter.fuzzy_tip_line="ファジーマッチング"を使用して、指定した名前に最も近いものを検索する
+gui.credits.empty=No credits have been provided.

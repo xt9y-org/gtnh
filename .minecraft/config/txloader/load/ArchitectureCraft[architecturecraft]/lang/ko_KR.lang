@@ -1,0 +1,158 @@
+# Items
+tile.architecturecraft:sawbench.name=건축가의 톱 작업대
+tile.architecturecraft:shape.name=건축학적인 블록
+tile.architecturecraft:shapeSE.name=건축학적인 블록(발광)
+item.architecturecraft:largePulley.name=대형 도르래
+item.architecturecraft:sawblade.name=원형 톱날
+item.architecturecraft:chisel.name=건축가의 끌
+item.architecturecraft:hammer.name=건축가의 망치
+item.architecturecraft:glowbrush.name=건축가의 발광 붓
+item.architecturecraft:cladding.name=접합
+
+# Container
+gui.architecturecraft.Sawbench=톱 작업대
+gui.architecturecraft.Makes=%s이(가) %s를 제작합니다
+
+# Gui Colors
+gui.architecturecraft.FontColor=404040
+gui.architecturecraft.SelectedBgColor=66CCFF
+
+# Pages
+gui.architecturecraft.Roofing=지붕의
+gui.architecturecraft.Rounded=둥근
+gui.architecturecraft.Classical=고전의
+gui.architecturecraft.Window=창문
+gui.architecturecraft.Arches=아치
+gui.architecturecraft.Railings=난간
+gui.architecturecraft.Other=기타
+gui.architecturecraft.Glow=발광
+
+# Shapes
+gui.architecturecraft.RoofTile=지붕 타일
+gui.architecturecraft.RoofOuterCorner=바깥 모서리 지붕
+gui.architecturecraft.RoofInnerCorner=안쪽 모서리 지붕
+gui.architecturecraft.RoofRidge=박공 지붕 마루
+gui.architecturecraft.RoofSmartRidge=모임 지붕 마루
+gui.architecturecraft.RoofValley=박공 지붕 골
+gui.architecturecraft.RoofSmartValley=모임 지붕 골
+
+gui.architecturecraft.RoofOverhang=지붕 처마
+gui.architecturecraft.RoofOverhangOuterCorner=바깥 모서리 지붕 처마
+gui.architecturecraft.RoofOverhangInnerCorner=안쪽 모서리 지붕 처마
+
+gui.architecturecraft.Cylinder=실린더
+gui.architecturecraft.CylinderHalf=하프 실린더
+gui.architecturecraft.CylinderQuarter=쿼터 실린더
+gui.architecturecraft.CylinderLargeQuarter=둥근 바깥쪽 모서리
+gui.architecturecraft.AnticylinderLargeQuarter=둥근 안쪽 모서리
+gui.architecturecraft.Pillar=둥근 기둥
+gui.architecturecraft.Post=라운드 포스트
+gui.architecturecraft.Pole=원형 막대기
+
+gui.architecturecraft.BevelledOuterCorner=비스듬한 바깥쪽 모서리
+gui.architecturecraft.BevelledInnerCorner=비스듬한 내부 모서리
+
+gui.architecturecraft.PillarBase=기초 원형 기둥
+gui.architecturecraft.DoricCapital=도릭 양식
+gui.architecturecraft.IonicCapital=로닉 양식
+gui.architecturecraft.CorinthianCapital=코린트식 양식
+gui.architecturecraft.DoricTriglyph=삼각형
+gui.architecturecraft.DoricTriglyphCorner=삼각형 모서리
+gui.architecturecraft.DoricMetope=메토프
+gui.architecturecraft.Architrave=아키트레이브
+gui.architecturecraft.ArchitraveCorner=아키트레이브 모서리
+
+gui.architecturecraft.WindowFrame=창틀
+gui.architecturecraft.WindowCorner=창 모서리
+gui.architecturecraft.WindowMullion=창문 멀리온
+
+gui.architecturecraft.SphereFull=구체
+gui.architecturecraft.SphereHalf=반구
+gui.architecturecraft.SphereQuarter=쿼터 구체
+gui.architecturecraft.SphereEighth=1/4구
+gui.architecturecraft.SphereEighthLarge=둥근 바깥쪽 모서리 캡
+gui.architecturecraft.SphereEighthLargeRev=둥근 내부 모서리 캡
+
+gui.architecturecraft.RoofOverhangGableLH=돌출된 지붕 LH
+gui.architecturecraft.RoofOverhangGableRH=돌출된 지붕 RH
+gui.architecturecraft.RoofOverhangGableEndLH=돌출된 지붕 LH 끝
+gui.architecturecraft.RoofOverhangGableEndRH=돌출된 지붕 RH 끝
+gui.architecturecraft.RoofOverhangRidge=능선 돌출부
+gui.architecturecraft.RoofOverhangValley=골짜기형 처마 돌출부
+
+gui.architecturecraft.CorniceLH=왼쪽 코니스
+gui.architecturecraft.CorniceRH=오른쪽 코니스
+gui.architecturecraft.CorniceEndLH=코니스 왼쪽 끝단
+gui.architecturecraft.CorniceEndRH=코니스 오른쪽 끝
+gui.architecturecraft.CorniceRidge=처마 장식 능선
+gui.architecturecraft.CorniceValley=코니스 계곡
+gui.architecturecraft.CorniceBottom=처마 장식 하단
+
+gui.architecturecraft.CladdingSheet=외장재
+
+gui.architecturecraft.ArchD1=아치 지름 1
+gui.architecturecraft.ArchD2=아치 지름 2
+gui.architecturecraft.ArchD3A=아치 지름 3 A부품
+gui.architecturecraft.ArchD3B=지름 3 아치 B부
+gui.architecturecraft.ArchD3C=지름 3 아치의 C 부분
+gui.architecturecraft.ArchD4A=아치 지름 4 A부
+gui.architecturecraft.ArchD4B=아치 지름 4 파트 B
+gui.architecturecraft.ArchD4C=아치 지름 4의 C 부분
+
+gui.architecturecraft.BanisterPlainBottom=기본 난간 하단 전환부
+gui.architecturecraft.BanisterPlain=기본 난간
+gui.architecturecraft.BanisterPlainTop=일반 난간 상단 전환부
+
+gui.architecturecraft.BalustradeFancy=화려한 난간
+gui.architecturecraft.BalustradeFancyCorner=화려한 모서리 난간
+gui.architecturecraft.BalustradeFancyWithNewel=난간 기둥이 있는 화려한 난간
+gui.architecturecraft.BalustradeFancyNewel=화려한 난간 기둥
+
+gui.architecturecraft.BalustradePlain=민무늬 난간
+gui.architecturecraft.BalustradePlainOuterCorner=장식 없는 외부 모서리 난간
+gui.architecturecraft.BalustradePlainWithNewel=끝기둥이 있는 일반 난간
+
+gui.architecturecraft.BanisterPlainEnd=일반 난간 끝단
+
+gui.architecturecraft.BanisterFancyNewelTall=높고 화려한 난간 기둥
+
+gui.architecturecraft.BalustradePlainInnerCorner=일반 안쪽 모서리 난간
+gui.architecturecraft.BalustradePlainEnd=민무늬 난간 끝
+
+gui.architecturecraft.BanisterFancyBottom=화려한 난간 하단 전환부
+gui.architecturecraft.BanisterFancy=화려한 난간
+gui.architecturecraft.BanisterFancyTop=화려한 난간 상단 전환부
+gui.architecturecraft.BanisterFancyEnd=화려한 난간 끝부분
+
+gui.architecturecraft.BanisterPlainInnerCorner=일반 난간 안쪽 모서리
+
+gui.architecturecraft.Slab=반 블록
+gui.architecturecraft.Stairs=계단
+gui.architecturecraft.StairsOuterCorner=계단 바깥쪽 모서리
+gui.architecturecraft.StairsInnerCorner=계단 안쪽 모서리
+
+gui.architecturecraft.SlopeTileA1=A 경사면 시작부
+gui.architecturecraft.SlopeTileA2=경사면 A 끝부분
+gui.architecturecraft.SlopeTileB1=B형 경사 시작부
+gui.architecturecraft.SlopeTileB2=B형 중앙 경사면
+gui.architecturecraft.SlopeTileB3=B형 경사면 끝부분
+gui.architecturecraft.SlopeTileC1=경사면 C 1
+gui.architecturecraft.SlopeTileC2=C형 경사면 2
+gui.architecturecraft.SlopeTileC3=C 3 경사면
+gui.architecturecraft.SlopeTileC4=경사면 C 4
+gui.architecturecraft.AngledRoofRidge=경사진 지붕 용마루
+
+gui.architecturecraft.SquareSE=정사각형(발광)
+gui.architecturecraft.SlabSE=반 블록(발광)
+gui.architecturecraft.RoofTileSE=발광 지붕 타일
+gui.architecturecraft.SlopeTileA1SE=경사 A 시작(발광)
+gui.architecturecraft.SlopeTileA2SE=A형 경사 끝(발광)
+gui.architecturecraft.SlopeTileB1SE=경사면 B 시작(발광)
+gui.architecturecraft.SlopeTileB2SE=경사면 B 중앙(발광)
+gui.architecturecraft.SlopeTileB3SE=B형 경사면 끝(발광)
+gui.architecturecraft.SlopeTileC1SE=경사면 C 1(발광)
+gui.architecturecraft.SlopeTileC2SE=경사면 C 2(발광)
+gui.architecturecraft.SlopeTileC3SE=경사 타일 C 3(발광)
+gui.architecturecraft.SlopeTileC4SE=경사면 C 4(발광)
+
+gui.architecturecraft.DoubleRoofTile=이중 지붕 타일

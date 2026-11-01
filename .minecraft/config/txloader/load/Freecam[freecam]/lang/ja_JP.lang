@@ -1,0 +1,13 @@
+key.categories.freecam=Freecam
+key.freecam.toggle=フリーカメラの切り替え
+key.freecam.resetTripods=カメラのリセット (切替)
+key.freecam.playerControl=プレイヤー操作の切替
+
+msg.freecam.enable=§fフリーカメラが有効化されました。§r
+msg.freecam.disable=§fフリーカメラが無効化されました。§r
+msg.freecam.speed=§f速度: %.1fx§r
+msg.freecam.tripod.open=§fOpening camera #%d§r
+msg.freecam.tripod.close=§fClosing camera #%d§r
+msg.freecam.tripod.reset=§fすべてのカメラがリセットされました§r
+msg.freecam.control.player=§f操作中: プレイヤー§r
+msg.freecam.control.camera=§f操作中: カメラ§r
