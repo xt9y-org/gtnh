@@ -1,0 +1,29 @@
+{
+  "Members": [
+    "c3c129b6-be0e-41ac-8291-e659f4538e01"
+  ],
+  "Officers": [
+    "c3c129b6-be0e-41ac-8291-e659f4538e01"
+  ],
+  "Owners": [
+    "c3c129b6-be0e-41ac-8291-e659f4538e01"
+  ],
+  "TeamData": {
+    "VM": {
+      "players": [
+        {
+          "uuid": "c3c129b6-be0e-41ac-8291-e659f4538e01",
+          "wallet": {}
+        }
+      ],
+      "wallet": {}
+    },
+    "gt.powerfails": {
+      "blob": ""
+    },
+    "visualprospecting": {}
+  },
+  "TeamName": "Felistig\u0027s Team",
+  "UUID": "59c8ea7f-c546-4422-8076-36634af96bde",
+  "Version": 1
+}
