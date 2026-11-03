@@ -10,6 +10,7 @@
     "gui_block_supersampling": 1
   },
   "advanced": {
+    "vsync_mode": "OFF",
     "use_vertex_array_objects": true,
     "multi_draw_mode": "INDIRECT",
     "use_particle_culling": true,
