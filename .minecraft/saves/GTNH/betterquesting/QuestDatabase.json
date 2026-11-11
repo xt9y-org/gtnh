@@ -328845,13 +328845,13 @@
 						"HomeZ:6": 0.0,
 						"HurtTime:2": 0,
 						"HomeY:6": 0.0,
-						"FeatherColor:1": 12,
-						"FallDistance:5": 0.0,
 						"Motion:9": {
 							"0:6": 0.0,
 							"1:6": 0.0,
 							"2:6": 0.0
 						},
+						"FallDistance:5": 0.0,
+						"FeatherColor:1": 12,
 						"id:8": "witchery.owl",
 						"HomeX:6": 0.0,
 						"Health:2": 10,
@@ -361554,9 +361554,9 @@
 					"visibility:8": "NORMAL",
 					"partySingleReward:1": 0,
 					"notification_style:8": "default",
+					"completion_particle:8": "default",
 					"notification_duration:5": -1.0,
 					"autoConsume:1": 0,
-					"completion_particle:8": "default",
 					"requiredItems:9": {
 						"0:10": {
 							"Count:3": 16,

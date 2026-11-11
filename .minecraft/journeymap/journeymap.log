@@ -1,14 +1,14 @@
-[14:23:39] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[14:23:39] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[14:23:39] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.core.config
-[14:23:39] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.fullmap.config
-[14:23:39] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.minimap.config
-[14:23:39] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.minimap2.config
-[14:23:39] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.webmap.config
-[14:23:39] [Client thread/WARN] [ConfigValidation] @Config on WaypointProperties.arrivalHorizontalRange defaultValue is out of range
-[14:23:39] [Client thread/WARN] [ConfigValidation] @Config on WaypointProperties.arrivalVerticalRange defaultValue is out of range
-[14:23:39] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.waypoint.config
-[14:23:39] [Client thread/INFO] [?] Version: JourneyMap 5.2.23 NoRadar, built with Forge 10.13.4.1614
+[17:16:14] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[17:16:14] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[17:16:14] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.core.config
+[17:16:14] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.fullmap.config
+[17:16:14] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.minimap.config
+[17:16:14] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.minimap2.config
+[17:16:14] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.webmap.config
+[17:16:14] [Client thread/WARN] [ConfigValidation] @Config on WaypointProperties.arrivalHorizontalRange defaultValue is out of range
+[17:16:14] [Client thread/WARN] [ConfigValidation] @Config on WaypointProperties.arrivalVerticalRange defaultValue is out of range
+[17:16:14] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/config/5.2/journeymap.waypoint.config
+[17:16:14] [Client thread/INFO] [?] Version: JourneyMap 5.2.23 NoRadar, built with Forge 10.13.4.1614
 Forge: 10.13.4.1614
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
 NoRadar Features: 
@@ -23,30 +23,23 @@ FullMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPet
 WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, deleteDeathpointOnArrival=false, fontScale=2, keepOnlyLatestDeathpoint=false, managerEnabled=true, maxDistance=0, arrivalHorizontalRange=3, arrivalVerticalRange=3, name=waypoint, showDistance=true, showName=true, showRotatingBeam=true, showStaticBeam=true, showTexture=true, textureSmall=true, beaconFadeStart=40, beaconFadeEnd=5}
 WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D, entityScale=100, entityBlur=true
 CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, isUpdateCheckEnabled=true, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=true, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=3, renderDistanceCaveMax=3, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=7, revealShape=Circle, themeName=Victorian, tileRenderType=1}
-[14:23:39] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg NaNms
-[14:23:46] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
-[14:23:46] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
-[14:23:46] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
-[14:23:46] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
-[14:23:46] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
-[14:23:46] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r40.35§8ms§r
-[14:23:46] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 6.0.8.jar for Minecraft 1.7.10 on https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?page=1&pageSize=20&version=1.7.109049794
-[14:24:02] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[14:24:02] [Client thread/INFO] [BlockMD] Built BlockMD cache (18761) : BlockMD.reset count 1 avg 92.02ms
-[14:24:02] [Client thread/INFO] [BlockSpriteMD] Built BlockSpriteMD cache (24003) : BlockSpriteMD.reset count 1 avg 11.63ms
-[14:24:03] [Client thread/INFO] [ColorHelper_1_7_10] Created block atlas copy 8192x8192 in 371.089ms
-[14:24:03] [Client thread/INFO] [ColorManager] Initialized 18654 block colors (93ms) and 16159 sprite colors (38ms) from mods and resource packs
-[14:24:19] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[14:24:19] [Client thread/WARN] [ConfigValidation] @Config on WaypointProperties.arrivalHorizontalRange defaultValue is out of range
-[14:24:19] [Client thread/WARN] [ConfigValidation] @Config on WaypointProperties.arrivalVerticalRange defaultValue is out of range
-[14:24:20] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/data/sp/GTNH/waypoints
-[14:24:20] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[14:24:20] [Client thread/INFO] [JourneymapClient] Mapping started in /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/data/sp/GTNH/DIM180. Memory: 3418MB total, 260MB free 
-[14:33:00] [Client thread/INFO] [JourneymapClient] Mapping halted in /Users/felixjaschul/Library/Application Support/PrismLauncher/instances/gtnh/.minecraft/journeymap/data/sp/GTNH/DIM180
+[17:16:14] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg NaNms
+[17:16:20] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
+[17:16:20] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
+[17:16:20] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
+[17:16:20] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[17:16:20] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[17:16:20] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r41.75§8ms§r
+[17:16:21] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 6.0.8.jar for Minecraft 1.7.10 on https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?page=1&pageSize=20&version=1.7.109049794
+[17:16:36] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[17:16:36] [Client thread/INFO] [BlockMD] Built BlockMD cache (18762) : BlockMD.reset count 1 avg 100.17ms
+[17:16:36] [Client thread/INFO] [BlockSpriteMD] Built BlockSpriteMD cache (24004) : BlockSpriteMD.reset count 1 avg 12.22ms
+[17:16:37] [Client thread/INFO] [ColorHelper_1_7_10] Created block atlas copy 8192x8192 in 381.362458ms
+[17:16:37] [Client thread/INFO] [ColorManager] Initialized 18655 block colors (100ms) and 16159 sprite colors (35ms) from mods and resource packs

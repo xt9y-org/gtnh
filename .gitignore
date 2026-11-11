@@ -1,2 +1,3 @@
 .DS_Store
 .minecraft/saves/*.zip
+.minecraft/backups/*.zip
