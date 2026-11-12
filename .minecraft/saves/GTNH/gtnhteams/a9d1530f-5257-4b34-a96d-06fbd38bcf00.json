@@ -1,0 +1,23 @@
+{
+  "Members": [
+    "2c3f6e1a-5e3f-4440-b0f5-25915ac29e3a"
+  ],
+  "Officers": [
+    "2c3f6e1a-5e3f-4440-b0f5-25915ac29e3a"
+  ],
+  "Owners": [
+    "2c3f6e1a-5e3f-4440-b0f5-25915ac29e3a"
+  ],
+  "TeamData": {
+    "VM": {
+      "wallet": {}
+    },
+    "gt.powerfails": {
+      "blob": ""
+    },
+    "visualprospecting": {}
+  },
+  "TeamName": "MultiblockBuilder\u0027s Team",
+  "UUID": "a9d1530f-5257-4b34-a96d-06fbd38bcf00",
+  "Version": 1
+}
